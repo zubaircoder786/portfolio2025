@@ -1,12 +1,45 @@
-# React + Vite
+# 💼 Portfolio 2025 – Dev Zubair
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal developer portfolio built with **React.js**, **Tailwind CSS**, and **Vite**.  
+It showcases my latest projects, skills, and freelance offerings with a clean, modern UI (glassmorphism vibes 🔥).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛️ React.js (with Vite)
+- 🎨 Tailwind CSS
+- ✨ Shadcn/UI Components (optional)
+- 💻 Deployed on [Vercel](https://vercel.com)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔍 Features
+
+- ✅ Responsive design (mobile-first)
+- ✅ Modern layout with smooth transitions
+- ✅ Project cards with links and descriptions
+- ✅ Skills & tools section
+- ✅ Contact / Hire Me section
+
+---
+
+## 📸 Screenshots
+
+![Portfolio Preview](./screenshot.png) <!-- Replace with real screenshot path or Vercel link -->
+
+---
+
+## 🌐 Live Preview
+
+👉 [View Live Portfolio](https://portfolio2025.vercel.app) <!-- Replace with actual link after deployment -->
+
+---
+
+## 📁 Run Locally
+
+```bash
+git clone https://github.com/yourusername/portfolio2025.git
+cd portfolio2025
+npm install
+npm run dev
