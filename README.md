@@ -32,7 +32,7 @@ It showcases my latest projects, skills, and freelance offerings with a clean, m
 
 ## 🌐 Live Preview
 
-👉 [View Live Portfolio](https://portfolio2025.vercel.app) <!-- Replace with actual link after deployment -->
+👉 [View Live Portfolio](https://portfolio2025-gamma-ten.vercel.app/) <!-- Replace with actual link after deployment -->
 
 ---
 
